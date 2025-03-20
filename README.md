@@ -30,7 +30,8 @@ A **Machine Learning-based** web application that predicts whether you should pl
 ## 🎮 Screenshots  
 
 ### Home Page  
-![Home](https://github.com/RamcharanSinghRamavath/Tennis-Prediction-App/blob/main/screenshots/home.png)  
+![Tennis Prediction App](Screenshot%202025-03-20%20002900.png)
+  
 
 ### Prediction Page  
 ![Prediction](https://github.com/RamcharanSinghRamavath/Tennis-Prediction-App/blob/main/screenshots/prediction.png)  
