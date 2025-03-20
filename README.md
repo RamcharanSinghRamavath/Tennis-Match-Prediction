@@ -38,7 +38,8 @@ A **Machine Learning-based** web application that predicts whether you should pl
 
 
 ### About Page  
-![About](https://github.com/RamcharanSinghRamavath/Tennis-Prediction-App/blob/main/screenshots/about.png)  
+![Tennis Prediction App](Screenshot%202025-03-20%20002938.png)
+  
 
 ---
 
@@ -50,9 +51,8 @@ A **Machine Learning-based** web application that predicts whether you should pl
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/RamcharanSinghRamavath/Tennis-Prediction-App.git
-   cd Tennis-Prediction-App
-
+   git clone https://github.com/RamcharanSinghRamavath/Tennis-Match-Prediction.git
+   cd Tennis-Match-Prediction
 2. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
