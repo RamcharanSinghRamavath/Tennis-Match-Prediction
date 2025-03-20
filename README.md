@@ -2,8 +2,6 @@
 
 A **Machine Learning-based** web application that predicts whether you should play tennis based on weather conditions. Built using **Streamlit** and powered by a **Decision Tree Classifier**, this app provides instant insights for tennis enthusiasts. 🚀  
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/RamcharanSinghRamavath/Tennis-Prediction-App?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/RamcharanSinghRamavath/Tennis-Prediction-App?style=social)
 
 ## 📌 Features  
 ✅ **User-friendly UI** to input weather conditions  
